@@ -12,7 +12,7 @@
     "url": "git+https://github.com/thepeekay/norcs-sd-14-vercel.git"
   },
   "engines": {
-    "node": "20.0.0"
+    "node": ">18.0.0"
   },
   "keywords": [],
   "author": "",
